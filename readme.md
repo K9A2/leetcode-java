@@ -46,3 +46,4 @@ public void Show(int n){
 |Name        |Update Date|Runtime|
 |------------|-----------|-------|
 |FizzBuzz|2016\11\28-09:46|3ms|
+|Power of Two|2016\11\28-12:01|2ms|
