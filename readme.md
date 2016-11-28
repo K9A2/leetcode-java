@@ -47,3 +47,5 @@ public void Show(int n){
 |------------|-----------|-------|
 |FizzBuzz|2016\11\28-09:46|3ms|
 |Power of Two|2016\11\28-12:01|2ms|
+|Reverse String|2016\11\28-19:17|6ms|
+|ValidAnagram|2016\11\29-00:12|5ms|
