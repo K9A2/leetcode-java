@@ -10,6 +10,15 @@ import java.util.HashSet;
  * Create by Stormlin. All rights reserved.
  **/
 
+/**
+ *
+ * Sample test case used in Main is shown below
+ *
+ *  ValidAnagram validAnagram=new ValidAnagram();
+ *  validAnagram.Show("abced","abdce");
+ *
+ */
+
 public class ValidAnagram {
 
     public void Show(String s,String t){

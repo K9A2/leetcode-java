@@ -6,6 +6,15 @@
  * Create by Stormlin. All rights reserved.
  **/
 
+/**
+ *
+ * Sample test case used in Main is shown below
+ *
+ *  PowerofTwo powerofTwo=new PowerofTwo();
+ *  powerofTwo.Show(15);
+ *
+ */
+
 public class PowerofTwo {
 
     public void Show(int n){

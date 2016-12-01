@@ -4,6 +4,17 @@ import java.util.List;
 /**
  * Create by Stormlin. All rights reserved.
  **/
+
+/**
+ *
+ * Sample test case used in Main is shown below
+ *
+ *  int [][] gird={{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}};
+ *  IslandPerimeter islandPerimeter=new IslandPerimeter();
+ *  islandPerimeter.Show(gird);
+ *
+ */
+
 public class FizzBuzz {
 
     public void Show(int n){

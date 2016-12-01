@@ -6,6 +6,15 @@
  * Create by Stormlin. All rights reserved.
  **/
 
+/**
+ *
+ * Sample test case used in Main is shown below
+ *
+ *  FizzBuzz fizzBuzz=new FizzBuzz();
+ *  fizzBuzz.Show(15);
+ *
+ */
+
 public class IslandPerimeter {
 
     public void Show(int [][] grid){
