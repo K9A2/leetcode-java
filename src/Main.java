@@ -9,8 +9,10 @@ public class Main {
 
     public static void main(String []args){
 
-        ValidAnagram validAnagram=new ValidAnagram();
-        validAnagram.Show("a","a");
+        int [][] gird={{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}};
+
+        IslandPerimeter islandPerimeter=new IslandPerimeter();
+        islandPerimeter.Show(gird);
 
     }
 
