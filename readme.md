@@ -3,8 +3,7 @@ I will update this repo whenever I had solved a problem. All the solutions in th
 
 You can follow my repo, read my code, and provide me better solution. Also, pointing out the mistakes in my solutions is welcomed.
 
-You can find this repo at 
-[GitHub|stormlin-LeetCode](https://github.com/K9A2/LeetCode).
+You can find this repo at [GitHub|stormlin-LeetCode](https://github.com/K9A2/LeetCode).
 
 # Instruction Manual
 This repo are edited under IntelliJ IDEA 2016.

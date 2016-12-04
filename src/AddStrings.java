@@ -19,27 +19,44 @@ public class AddStrings {
 
     private String addStrings(String num1, String num2) {
 
-        long double a=0;
-        long double b=0;
-        long double one=1;
+        int max=(num1.length()<=num2.length())?num1.length():num2.length();
 
-        for (int i=num1.length()-1;i>=0;i--){
-            a+=(num1.charAt(i)-48)*one;
-            one*=10;
+        StringBuilder stringBuilder=new StringBuilder();
+
+        int carry=0;
+
+        int sum=0;
+
+        int l1=num1.length()-1;
+        int l2=num2.length()-1;
+
+        int i=0;
+
+        for (i=0;i<max;i++){
+            sum=(num1.charAt(l1-i)-48)+(num2.charAt(l2-i)-48)+carry;
+            if(sum>=10){
+                carry=1;
+                stringBuilder.append(sum-10);
+            }else{
+                stringBuilder.append(sum);
+            }
         }
 
-        one=1;
+        i=max;
+        if(num1.length()>num2.length()){
+            while(carry!=0){
+                int result=(((num1.charAt(i-1)-48)+carry)>=10)?ture:false;
+                stringBuilder.append()
+            }
+        }else if (num1.length()==num2.length()){
+            stringBuilder.append(1);
+        }else{
+            while(carry!=0){
 
-        for (int i=num2.length()-1;i>=0;i--){
-            b+=(num2.charAt(i)-48)*one;
-            one*=10;
+            }
         }
 
-        String s=new String(String.format("%f",a+b));
-
-        //return String.valueOf(s.substring(0,s.length()-7));
-        return String.valueOf(s.toString());
-
+        return stringBuilder.reverse().toString();
     }
 
 }
