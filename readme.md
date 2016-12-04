@@ -52,3 +52,4 @@ public void Show(int n){
 |3|Reverse String|2016\11\28-19:17|6ms|
 |4|ValidAnagram|2016\11\29-00:12|5ms|
 |5|IslandPerimeter|2016\12\1-15:27|154ms|
+|6|AddString|2016\12\5-00:10|30ms|
