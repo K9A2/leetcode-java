@@ -3,6 +3,9 @@ I will update this repo whenever I had solved a problem. All the solutions in th
 
 You can follow my repo, read my code, and provide me better solution. Also, pointing out the mistakes in my solutions is welcomed.
 
+You can find this repo at 
+[GitHub|stormlin-LeetCode](https://github.com/K9A2/LeetCode).
+
 # Instruction Manual
 This repo are edited under IntelliJ IDEA 2016.
 All calsses are given the corresponding name in LeetCode. For example, problem *FizzBuzz* are solved in *FizzBuzz.java*. You can use this class by initialize and use it as below.
