@@ -18,45 +18,46 @@ public class AddStrings {
     }
 
     private String addStrings(String num1, String num2) {
-
-        int max=(num1.length()<=num2.length())?num1.length():num2.length();
-
-        StringBuilder stringBuilder=new StringBuilder();
-
         int carry=0;
 
         int sum=0;
 
-        int l1=num1.length()-1;
-        int l2=num2.length()-1;
+        StringBuilder stringBuilder=new StringBuilder();
 
-        int i=0;
+        if (num1.length()>num2.length()){
+            num2=AddZero(num2,num1.length()-num2.length());
+        }else {
+            num1=AddZero(num1,num2.length()-num1.length());
+        }
 
-        for (i=0;i<max;i++){
-            sum=(num1.charAt(l1-i)-48)+(num2.charAt(l2-i)-48)+carry;
-            if(sum>=10){
-                carry=1;
+        for(int i=num1.length()-1;i>=0;i--){
+            sum=(num1.charAt(i)-48)+(num2.charAt(i)-48)+carry;
+            if (sum>9){
                 stringBuilder.append(sum-10);
-            }else{
+                carry=1;
+            }else {
                 stringBuilder.append(sum);
+                carry=0;
             }
         }
 
-        i=max;
-        if(num1.length()>num2.length()){
-            while(carry!=0){
-                int result=(((num1.charAt(i-1)-48)+carry)>=10)?ture:false;
-                stringBuilder.append()
-            }
-        }else if (num1.length()==num2.length()){
+        if (carry==1){
             stringBuilder.append(1);
-        }else{
-            while(carry!=0){
-
-            }
         }
 
         return stringBuilder.reverse().toString();
+    }
+    private String AddZero(String s,int count){
+
+        StringBuilder stringBuilder=new StringBuilder();
+
+        for(int i=0;i<count;i++){
+            stringBuilder.append("0");
+        }
+
+        stringBuilder.append(s);
+
+        return stringBuilder.toString();
     }
 
 }
