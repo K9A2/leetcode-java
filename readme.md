@@ -51,5 +51,7 @@ public void Show(int n){
 |2|Power of Two|2016\11\28-12:01|2ms|
 |3|Reverse String|2016\11\28-19:17|6ms|
 |4|ValidAnagram|2016\11\29-00:12|5ms|
-|5|IslandPerimeter|2016\12\1-15:27|154ms|
+|5|IslandPerimeter|2016\12\01-15:27|154ms|
 |6|AddString|2016\12\5-00:10|30ms|
+|7|Find the Difference|2016\12\05-09:20|8ms|
+|8|Sum of Two Integers|2016\12\05-09:53|0ms|

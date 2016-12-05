@@ -9,8 +9,8 @@ public class Main {
 
     public static void main(String []args){
 
-        AddStrings addStrings=new AddStrings();
-        addStrings.Show("12345","123");
+        SumOfTwoIntegers sumOfTwoIntegers=new SumOfTwoIntegers();
+        sumOfTwoIntegers.Show(11,5);
 
     }
 
