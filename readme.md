@@ -56,3 +56,4 @@ public void Show(int n){
 |7|Find the Difference|2016\12\05-09:20|8ms|
 |8|Sum of Two Integers|2016\12\05-09:53|0ms|
 |9|Add Digits|2016\12\05-10:19|3ms|
+|10|Majority Element|2016\12\05-11:02|5ms|

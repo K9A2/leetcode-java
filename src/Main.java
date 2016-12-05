@@ -9,8 +9,10 @@ public class Main {
 
     public static void main(String []args){
 
-        AddDigits addDigits=new AddDigits();
-        addDigits.Show(19);
+
+        int[] nums={3,2,3};
+        MajorityElement majorityElement=new MajorityElement();
+        majorityElement.Show(nums);
 
     }
 
