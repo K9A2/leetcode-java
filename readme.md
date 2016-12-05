@@ -58,3 +58,4 @@ public void Show(int n){
 |9|Add Digits|2016\12\05-10:19|3ms|
 |10|Majority Element|2016\12\05-11:02|5ms|
 |11|Nim Game|2016\12\05-11:09|1ms|
+|12|Ransom Note|2016\12\05-15:26|27ms|
