@@ -45,17 +45,18 @@ public void Show(int n){
 
 # Problem List
 
-|No.|Name        |Update Date|Runtime|
-|-----|------------|-----------|-------|
-|1|FizzBuzz|2016\11\28-09:46|3ms|
-|2|Power of Two|2016\11\28-12:01|2ms|
-|3|Reverse String|2016\11\28-19:17|6ms|
-|4|ValidAnagram|2016\11\29-00:12|5ms|
-|5|IslandPerimeter|2016\12\01-15:27|154ms|
-|6|AddString|2016\12\5-00:10|30ms|
-|7|Find the Difference|2016\12\05-09:20|8ms|
-|8|Sum of Two Integers|2016\12\05-09:53|0ms|
-|9|Add Digits|2016\12\05-10:19|3ms|
-|10|Majority Element|2016\12\05-11:02|5ms|
-|11|Nim Game|2016\12\05-11:09|1ms|
-|12|Ransom Note|2016\12\05-15:26|27ms|
+|No.|Name        |Date|Runtime|Difficulty|
+|-----|------------|-----------|-------|----|
+|1|412.Fizz Buzz|2016\11\28-09:46|3ms|Easy|
+|2|231.Power of Two|2016\11\28-12:01|2ms|Easy|
+|3|344.Reverse String|2016\11\28-19:17|6ms|Easy|
+|4|242.Valid Anagram|2016\11\29-00:12|5ms|Easy|
+|5|463.Island Perimeter|2016\12\01-15:27|154ms|Easy|
+|6|415.Add String|2016\12\5-00:10|30ms|Easy|
+|7|389.Find the Difference|2016\12\05-09:20|8ms|Easy|
+|8|371.Sum of Two Integers|2016\12\05-09:53|0ms|Easy|
+|9|258.Add Digits|2016\12\05-10:19|3ms|Easy|
+|10|169.Majority Element|2016\12\05-11:02|5ms|Easy|
+|11|292.Nim Game|2016\12\05-11:09|1ms|Easy|
+|12|383.Ransom Note|2016\12\05-15:26|27ms|Easy|
+|13|349.IntersectionOfTwoArrays|2016\12\05-16:06|10ms|Easy|
