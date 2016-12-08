@@ -25,7 +25,7 @@ Return:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;"FizzBuzz"<br>
 ]
 ## 算法
-解这道题不需要链表之类的高级数据结构，用内置的List类型来解决就可以了。
+解这道题不需要链表之类的高级数据结构，用内置的List类型来解决就可以了。算法在题目中已经讲解的非常明白，这里就不在赘述了。
 ## 代码
 ```Java
 public class FizzBuzz {

@@ -5,7 +5,7 @@ You can follow my repo, read my code, and provide me better solution. Also, poin
 
 You can find this repo at [GitHub|stormlin-LeetCode](https://github.com/K9A2/LeetCode).
 
-# Instruction Manual
+# Usage
 This repo are edited under IntelliJ IDEA 2016.
 All calsses are given the corresponding name in LeetCode. For example, problem *FizzBuzz* are solved in *FizzBuzz.java*. You can use this class by initialize and use it as below.
 
@@ -42,6 +42,9 @@ public void Show(int n){
     }
 }
 ```
+
+# Tutorial
+If you had any question after reading both the question and solutions, you can turn to the tutorials in the dictionary "tutorials". The solution for each problem is written in Markdown file with corresponding name. For example, the   tutorial of *FizzBuzz* is written in *FizBuzz.md*.
 
 # Problem List
 
