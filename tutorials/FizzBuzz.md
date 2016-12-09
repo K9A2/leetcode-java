@@ -1,4 +1,4 @@
-# Tutorial: Fizz Buzz
+# Tutorial: 412. Fizz Buzz
 
 ## 题目
 原题链接[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)，大家点进去就能看到LeetCode上的原题，注册个账号就能做题了。下面给出题目的大概翻译：

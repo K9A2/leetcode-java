@@ -1,4 +1,4 @@
-# Tutorial: Power of Two
+# Tutorial: 231. Power of Two
 
 ## 题目
 给定一个数，确认其是否为2的幂。返回true表明其为2的幂，否则返回false。
