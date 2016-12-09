@@ -1,8 +1,5 @@
 # Tutorial: Fizz Buzz
 
-## 简介
-*FizzBuzz*是LeetCode上的一道入门题目，难度相当低。
-
 ## 题目
 原题链接[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)，大家点进去就能看到LeetCode上的原题，注册个账号就能做题了。下面给出题目的大概翻译：
 >给定一个正整数N，要求返回一个有N个元素的List<String>，对应从1到N的N个数。当对应的数为15的倍数时，在list中的对应位置添加FizzBuzz；当对应的数为5的倍数时，添加Buzz；当对应的数为3的倍数时，添加Fizz。

@@ -8,6 +8,7 @@
 |No.|Name|File|Date|Link|
 |--|---------|--|------------|--|
 |1|412.Fizz Buzz|FizzBuzz.md|2016/12/09-00:05|[FizzBuzz](http://www.stormlin.com/2016/12/08/tutorial-fizz-buzz/)|
+|2|231. Power of Two|PowerofTwo.md|2016/12/09-16:58|[Power of Two](http://www.stormlin.com/2016/12/09/tutorial-power-of-two/)|
 
 # Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
