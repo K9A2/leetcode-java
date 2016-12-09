@@ -19,7 +19,7 @@ private String reverseString(String s){
     }
 ```
 
-# Copy Right
+## Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
 Go to my [CSDN blog](http://blog.csdn.net/atmiao) for more interesting things.
 For more information, follow my Subscription Account: *Hello Programmer* by scanning the QR code below.
