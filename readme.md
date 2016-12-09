@@ -62,6 +62,7 @@ If you had any question after reading both the question and solutions, you can t
 |11|292.Nim Game|2016\12\05-11:09|1ms|Easy|
 |12|383.Ransom Note|2016\12\05-15:26|27ms|Easy|
 |13|349.IntersectionOfTwoArrays|2016\12\05-16:06|10ms|Easy|
+|14|136. Single Number|2016\12\09-15:06|1ms|Easy|
 
 # Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
