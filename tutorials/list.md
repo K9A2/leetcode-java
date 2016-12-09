@@ -4,7 +4,8 @@
 写的不好的地方还请大家指出。能供大家在写不出来的时候能有一个参考思路我就满足了。
 
 # 教程列表
-|No|Name|File|Date|Link|
+
+|No.|Name|File|Date|Link|
 |--|---------|--|------------|--|
 |1|412.Fizz Buzz|FizzBuzz.md|2016/12/09-00:05|[FizzBuzz](http://www.stormlin.com/2016/12/08/tutorial-fizz-buzz/)|
 
