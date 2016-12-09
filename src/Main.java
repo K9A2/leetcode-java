@@ -9,9 +9,10 @@ public class Main {
 
     public static void main(String []args){
 
-        int[] nums={1,1,2};
-        SingleNumber singleNumber=new SingleNumber();
-        singleNumber.Show(nums);
+        int[] g={1,2,3};
+        int[] s={3};
+        AssignCookies assignCookies=new AssignCookies();
+        assignCookies.Show(g,s);
 
     }
 
