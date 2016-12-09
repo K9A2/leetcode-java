@@ -47,7 +47,6 @@ public void Show(int n){
 If you had any question after reading both the question and solutions, you can turn to the tutorials in the dictionary "tutorials". The solution for each problem is written in Markdown file with corresponding name. For example, the   tutorial of *FizzBuzz* is written in *FizBuzz.md*.
 
 # Problem List
-
 |No.|Name        |Date|Runtime|Difficulty|
 |-----|------------|-----------|-------|----|
 |1|412.Fizz Buzz|2016\11\28-09:46|3ms|Easy|
@@ -63,3 +62,9 @@ If you had any question after reading both the question and solutions, you can t
 |11|292.Nim Game|2016\12\05-11:09|1ms|Easy|
 |12|383.Ransom Note|2016\12\05-15:26|27ms|Easy|
 |13|349.IntersectionOfTwoArrays|2016\12\05-16:06|10ms|Easy|
+
+# Copy Right
+Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
+Go to my [CSDN blog](http://blog.csdn.net/atmiao) for more interesting things.
+For more detail, follow my WeChat Subscription by scan the QR code below.
+![QR Code](http://img.blog.csdn.net/20161209103948618?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXRtaWFv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
