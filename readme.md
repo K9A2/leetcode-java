@@ -64,6 +64,8 @@ If you had any question after reading both the question and solutions, you can t
 |13|349.IntersectionOfTwoArrays|2016\12\05-16:06|10ms|Easy|
 |14|136. Single Number|2016\12\09-15:06|1ms|Easy|
 |15|455. Assign Cookies|2016\12\09-15:24|19ms|Easy|
+|16|283. Move Zeroes|2016\12\09-15:50|6ms|Easy|
+|17|217. Contains Duplicate|2016\12\09-16:10|10ms|Easy|
 
 # Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
