@@ -11,6 +11,9 @@
 |3|344. Reverse String|ReverseString.md|2016/12/09-21:27|[Reverse String](http://www.stormlin.com/2016/12/09/167/)|
 |4|242. Valid Anagram|ValidAnagram.md|2016/12/10-16:50|[Valid Anagram](http://www.stormlin.com/2016/12/10/tutorial-242-valid-anagram/)|
 |5|463. Island Perimeter|IslandPerimeter.md|2016/12/11-23:59|[Island Perimeter](http://www.stormlin.com/2016/12/12/tutorial：-463-island-perimeter/)|
+|6|415. Add String|AddString.md|2016/12/12-10:02|[Add String](http://www.stormlin.com/2016/12/12/tutorial-415-add-string/)|
+|7|389. Find the Difference|FindTheDifference.md|2016/12/12-10:42|[Find the Difference](http://www.stormlin.com/2016/12/12/tutorial-389-find-the-difference/)|
+|8|371. Sum of Two Integers|SumOfTwoIntegers.md|2016/12/12-10:55|[Sum of Two Integers](http://www.stormlin.com/2016/12/12/tutorial-371-sum-of-two-integers/)|
 
 # Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
