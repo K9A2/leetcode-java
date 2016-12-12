@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5825cc3a-a219-43dc-93bb-fe4d55dd04f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FindTheDifference.java" afterPath="$PROJECT_DIR$/src/FindTheDifference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutorials/list.md" afterPath="$PROJECT_DIR$/tutorials/list.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="SumOfTwoIntegers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SumOfTwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="621">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -617,12 +616,12 @@
       <workItem from="1481266815910" duration="1453000" />
       <workItem from="1481268443473" duration="2683000" />
       <workItem from="1481288385924" duration="475000" />
-      <workItem from="1481509570177" duration="1799000" />
+      <workItem from="1481509570177" duration="3772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51971000" />
+    <option name="totallyTimeSpent" value="53944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1088,8 +1087,8 @@
         <state relative-caret-position="216">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="24" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="false" />
+            <element signature="e#274#275#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1172,8 +1171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SumOfTwoIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="621">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
