@@ -14,6 +14,7 @@
 |6|415. Add String|AddString.md|2016/12/12-10:02|[Add String](http://www.stormlin.com/2016/12/12/tutorial-415-add-string/)|
 |7|389. Find the Difference|FindTheDifference.md|2016/12/12-10:42|[Find the Difference](http://www.stormlin.com/2016/12/12/tutorial-389-find-the-difference/)|
 |8|371. Sum of Two Integers|SumOfTwoIntegers.md|2016/12/12-10:55|[Sum of Two Integers](http://www.stormlin.com/2016/12/12/tutorial-371-sum-of-two-integers/)|
+|9|258. Add Digits|AddDigits.md|2016/12/12-17:40|[Add Digits](http://www.stormlin.com/2016/12/12/tutorial-258-add-digits/)|
 
 # Copy Right
 Copyright © 2015 - 2016 [stormlin](http://www.stormlin.com/). All Rights Reserved.
