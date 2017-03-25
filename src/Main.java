@@ -1,4 +1,5 @@
-package easy;
+import easy.FindAllNumbersDisappearedInAnArray;
+import easy.NumberComplement;
 
 /**
  * Create by Stormlin. All rights reserved.
@@ -8,10 +9,8 @@ public class Main {
 
     public static void main(String []args){
 
-        int[] nums={4,3,2,7,8,2,3,1};
-
-        FindAllNumbersDisappearedInAnArray findAllNumbersDisappearedInAnArray=new FindAllNumbersDisappearedInAnArray();
-        findAllNumbersDisappearedInAnArray.Show(nums);
+        NumberComplement test = new NumberComplement();
+        System.out.println(test.findComplement(5));
 
     }
 

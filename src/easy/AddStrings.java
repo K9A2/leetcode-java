@@ -1,4 +1,4 @@
-/**
+package easy; /**
  * Created by K9A2S on 2016/12/1.
  */
 

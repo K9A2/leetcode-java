@@ -47,28 +47,30 @@ public void Show(int n){
 If you had any question after reading both the question and solutions, you can turn to the tutorials in the dictionary "tutorials". The solution for each problem is written in Markdown file with corresponding name. For example, the   tutorial of *FizzBuzz* is written in *FizBuzz.md*.
 
 # Problem List
-|No.|Name        |Date|Runtime|Difficulty|
-|-----|------------|-----------|-------|----|
-|1  |412. Fizz Buzz|2016/11/28-09:46|3ms|Easy|
-|2  |231. Power of Two|2016/11/28-12:01|2ms|Easy|
-|3  |344. Reverse String|2016/11/28-19:17|6ms|Easy|
-|4  |242. Valid Anagram|2016/11/29-00:12|5ms|Easy|
-|5  |463. Island Perimeter|2016/12/01-15:27|154ms|Easy|
-|6  |415. Add String|2016/12/5-00:10|30ms|Easy|
-|7  |389. Find the Difference|2016/12/05-09:20|8ms|Easy|
-|8  |371. Sum of Two Integers|2016/12/05-09:53|0ms|Easy|
-|9  |258. Add Digits|2016/12/05-10:19|3ms|Easy|
-|10 |169. Majority Element|2016/12/05-11:02|5ms|Easy|
-|11 |292. Nim Game|2016/12/05-11:09|1ms|Easy|
-|12 |383. Ransom Note|2016/12/05-15:26|27ms|Easy|
-|13 |349. IntersectionOfTwoArrays|2016/12/05-16:06|10ms|Easy|
-|14 |136. Single Number|2016/12/09-15:06|1ms|Easy|
-|15 |455. Assign Cookies|2016/12/09-15:24|19ms|Easy|
-|16 |283. Move Zeroes|2016/12/09-15:50|6ms|Easy|
-|17 |217. Contains Duplicate|2016/12/09-16:10|10ms|Easy|
-|18 |461. Hamming Distance|2017/1/16-17:55|12ms|Easy|
-|19 |485. Max Consecutive Ones|2017/1/16-19:19|9ms|Easy|
-|20 |448. Find All Numbers Disappeared in an Array|2017/1/16-20:24|23ms|Easy|
+Easy:
+|No.|Name        |Date|Runtime
+|-----|------------|-----------|-------|
+|1  |412. Fizz Buzz|2016/11/28-09:46|3ms|
+|2  |231. Power of Two|2016/11/28-12:01|2ms|
+|3  |344. Reverse String|2016/11/28-19:17|6ms|
+|4  |242. Valid Anagram|2016/11/29-00:12|5ms|
+|5  |463. Island Perimeter|2016/12/01-15:27|154ms|
+|6  |415. Add String|2016/12/5-00:10|30ms|
+|7  |389. Find the Difference|2016/12/05-09:20|8ms|
+|8  |371. Sum of Two Integers|2016/12/05-09:53|0ms|
+|9  |258. Add Digits|2016/12/05-10:19|3ms|
+|10 |169. Majority Element|2016/12/05-11:02|5ms|
+|11 |292. Nim Game|2016/12/05-11:09|1ms|
+|12 |383. Ransom Note|2016/12/05-15:26|27ms|
+|13 |349. IntersectionOfTwoArrays|2016/12/05-16:06|10ms|
+|14 |136. Single Number|2016/12/09-15:06|1ms|
+|15 |455. Assign Cookies|2016/12/09-15:24|19ms|
+|16 |283. Move Zeroes|2016/12/09-15:50|6ms|
+|17 |217. Contains Duplicate|2016/12/09-16:10|10ms|
+|18 |461. Hamming Distance|2017/1/16-17:55|12ms|
+|19 |485. Max Consecutive Ones|2017/1/16-19:19|9ms|
+|20 |448. Find All Numbers Disappeared in an Array|2017/1/16-20:24|23ms|
+|21|476. Number Complement|2017/3/25|13ms|
 
 
 # Copy Right
