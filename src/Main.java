@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package easy;
 
 /**
  * Create by Stormlin. All rights reserved.
