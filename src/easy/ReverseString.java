@@ -1,20 +1,24 @@
-package easy; /**
- * Created by K9A2S on 2016/11/28.
+/**
+ * Author: stormlin
+ * Personal Website: www.stormlin.com
+ * Problem Name: 344. Reverse String
+ * Problem Address: https://leetcode.com/problems/reverse-string/#/description
+ * Solution Date: Apr. 18, 2017
+ * -----------------------------------------------------------------------------
+ * Problem Description:
+ * Write a function that takes a string as input and returns the string reversed.
+ * -----------------------------------------------------------------------------
+ * Example:
+ * Given s = "hello", return "olleh".
  */
 
-/**
- * Create by Stormlin. All rights reserved.
- **/
+package easy;
 
 public class ReverseString {
 
-    public void Show(String input){
-        System.out.println(reverseString(input));
-    }
-
-    private String reverseString(String s){
-        StringBuilder sb=new StringBuilder();
-        for(int i=s.length()-1;i>=0;i--) {
+    public String reverseString(String s) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = s.length() - 1; i >= 0; i--) {
             sb.append(s.charAt(i));
         }
         return sb.toString();

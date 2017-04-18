@@ -1,30 +1,39 @@
-package easy; /**
- * Created by K9A2S on 2016/12/5.
- */
+/**
+ * Create by stormlin. All rights reserved.
+ * Personal Website: www.stormlin.com
+ * Problem Name: 349. Intersection of Two Arrays
+ * Problem Address: https://leetcode.com/problems/intersection-of-two-arrays/#/description
+ * Solution Date: Apr. 18, 2017
+ * -----------------------------------------------------------------------------
+ * Problem Description:
+ * Given two arrays, write a function to compute their intersection.
+ * -----------------------------------------------------------------------------
+ * Example:
+ * <p>
+ * Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
+ * -----------------------------------------------------------------------------
+ * Note:
+ * Each element in the result must be unique.
+ * The result can be in any order.
+ **/
+
+package easy;
 
 import java.util.HashSet;
 
-/**
- * Create by Stormlin. All rights reserved.
- **/
-
 public class IntersectionOfTwoArrays {
 
-    public void Show(int[] nums1, int[] nums2){
-        System.out.println(intersection(nums1,nums2));
-    }
+    public int[] intersection(int[] nums1, int[] nums2) {
 
-    private int[] intersection(int[] nums1, int[] nums2) {
+        HashSet hs = new HashSet();
 
-        HashSet hs=new HashSet();
+        HashSet hs1 = new HashSet();
 
-        HashSet hs1=new HashSet();
-
-        for(int i=0;i<nums1.length;i++){
+        for (int i = 0; i < nums1.length; i++) {
             hs.add(nums1[i]);
         }
 
-        for(int i=0;i<nums2.length;i++){
+        for (int i = 0; i < nums2.length; i++) {
             hs1.add(nums2[i]);
         }
 
