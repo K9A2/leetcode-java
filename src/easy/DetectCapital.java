@@ -1,5 +1,5 @@
 /*
-  Create by stormlin. All rights reserved.
+  Author: stormlin
   Personal Website: www.stormlin.com
   Problem Name: 520. Detect Capital
   Problem Address: https://leetcode.com/problems/detect-capital/#/description
@@ -31,6 +31,10 @@
  */
 
 package easy;
+
+/**
+ * Verify the input string whether it is a "right-used" word.
+ */
 
 public class DetectCapital {
 
