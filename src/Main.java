@@ -1,18 +1,13 @@
-import easy.FindAllNumbersDisappearedInAnArray;
-import easy.NumberComplement;
-
-/**
- * Create by Stormlin. All rights reserved.
- **/
+import easy.DetectCapital;
 
 public class Main {
 
-    public static void main(String []args){
-
-        NumberComplement test = new NumberComplement();
-        System.out.println(test.findComplement(5));
-
+    public static void main(String[] args) {
+        DetectCapital dc = new DetectCapital();
+        if (!dc.detectCapitalUse("USA")) {
+            return;
+        }
+        System.out.print("USA");
     }
 
 }
-

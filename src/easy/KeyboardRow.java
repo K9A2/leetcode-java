@@ -1,26 +1,26 @@
-/**
- * Author: stormlin
- * Personal Website: www.stormlin.com
- * Problem Name: 500. Keyboard Row
- * Problem Address: https://leetcode.com/problems/keyboard-row/#/description
- * Solution Date: Apr. 18, 2017
- * -----------------------------------------------------------------------------
- * Problem Description:
- * Given a List of words, return the words that can be typed using
- * letters of alphabet on only one row's of American keyboard.
- * -----------------------------------------------------------------------------
- * Example:
- * <p>
- * Input:
- * ["Hello", "Alaska", "Dad", "Peace"]
- * <p>
- * Output:
- * ["Alaska", "Dad"]
- * <p>
- * Explanation:
- * <p>
- * Only "Alaska" and "Dad" contains the letters in a single row.
- * "Hello" contains the letter from row "qwertyuiop" and row "asdfghjkl".
+/*
+  Author: stormlin
+  Personal Website: www.stormlin.com
+  Problem Name: 500. Keyboard Row
+  Problem Address: https://leetcode.com/problems/keyboard-row/#/description
+  Solution Date: Apr. 18, 2017
+  -----------------------------------------------------------------------------
+  Problem Description:
+  Given a List of words, return the words that can be typed using
+  letters of alphabet on only one row's of American keyboard.
+  -----------------------------------------------------------------------------
+  Example:
+
+  Input:
+  ["Hello", "Alaska", "Dad", "Peace"]
+
+  Output:
+  ["Alaska", "Dad"]
+
+  Explanation:
+
+  Only "Alaska" and "Dad" contains the letters in a single row.
+  "Hello" contains the letter from row "qwertyuiop" and row "asdfghjkl".
  */
 
 package easy;
@@ -42,7 +42,7 @@ public class KeyboardRow {
         //This is a relatively slow but with a good looking, made by lixx2100.
         //return Stream.of(words).filter(s -> s.toLowerCase().matches("[qwertyuiop]*|[asdfghjkl]*|[zxcvbnm]*")).toArray(String[]::new);
 
-        ArrayList<String> result = new ArrayList<String>();
+        ArrayList<String> result = new ArrayList<>();
 
         for (String word : words) {
             String com = word.toLowerCase();
