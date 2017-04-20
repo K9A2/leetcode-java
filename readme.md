@@ -6,8 +6,9 @@ You can follow my repo, read my code, and provide me better solution. Also, poin
 
 # Usage
 
-This repo are edited under IntelliJ IDEA 2016.
-All calsses are given the corresponding name in LeetCode. For example, problem *FizzBuzz* are solved in *FizzBuzz.java*. You can use this class by initialize and use it as below.
+This repository are developed under IntelliJ IDEA 2016. Therefore, you can use an IDE such as IntelliJ IDEA to open and develop directly. Or you can compile and test it with JDK.
+
+Some of the solution had been converted to static method for the convenience of test.
 
 ```java
 //Below is a sample usage for problem: "492. Construct the Rectangle".
