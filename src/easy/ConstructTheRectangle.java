@@ -3,7 +3,7 @@ Author: stormlin
 Personal Website: www.stormlin.com
 Problem Name: 492. Construct the Rectangle
 Problem Address: https://leetcode.com/problems/construct-the-rectangle/#/description
-Solution Date: Apr. 18, 2017
+Solution Date: Apr. 20, 2017
 --------------------------------------------------------------------------------
 For a web developer, it is very important to know how to design a web page's size.
 So, given a specific rectangular web page’s area, your job by now is to design
@@ -54,7 +54,7 @@ public class ConstructTheRectangle {
      * @param area Area Input
      * @return Result of width and length in a int array
      */
-    public int[] constructRectangle(int area) {
+    public static int[] constructRectangle(int area) {
 
         int[] result = new int[2];
 
