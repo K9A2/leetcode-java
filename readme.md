@@ -77,3 +77,4 @@ Easy:
 |23|171. Excel Sheet Column Number|Apr. 18, 2017|
 |24|520. Detect Capital|Apr. 18, 2017|
 |25|492. Construct the Rectangle|Apr. 20, 2017|
+|26|167. Two Sum II - Input array is sorted|Apr. 20, 2017|
