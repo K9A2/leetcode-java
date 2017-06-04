@@ -1,13 +1,12 @@
-import easy.TwoSumII_InputArrayIsSorted;
+import easy.Reverse_Words_in_a_String_III;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        int[] nums = {0, 0, 3, 4};
-        for (int index : TwoSumII_InputArrayIsSorted.twoSum(nums, 7)) {
-            System.out.println(index);
-        }
+        String s = "Let's take LeetCode contest";
+
+        System.out.println(Reverse_Words_in_a_String_III.reverseWords(s));
 
     }
 
