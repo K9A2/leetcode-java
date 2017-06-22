@@ -16,11 +16,6 @@ Note: In the string, each word is separated by single space and there will not b
 
 package easy;
 
-import javax.lang.model.element.NestingKind;
-import java.awt.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-
 /**
  * Problem: 557. Reverse Words in a String III
  *

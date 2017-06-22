@@ -1,12 +1,13 @@
+import easy.Array_Partition_One;
 import easy.Reverse_Words_in_a_String_III;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        String s = "Let's take LeetCode contest";
+        int[] nums = {1, 4, 3, 2};
 
-        System.out.println(Reverse_Words_in_a_String_III.reverseWords(s));
+        System.out.println(Array_Partition_One.arrayPairSum(nums));
 
     }
 
