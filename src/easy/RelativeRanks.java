@@ -23,7 +23,6 @@
 package easy;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Hashtable;
 
 public class RelativeRanks {
@@ -45,7 +44,7 @@ public class RelativeRanks {
         for (int i = nums.length - 1; i >= 0; i--) {
             if (i == nums.length - 1) {
                 result[table.get(nums[i])] = "Gold Medal";
-            } else if (i == nums.length - 2 ) {
+            } else if (i == nums.length - 2) {
                 result[table.get(nums[i])] = "Silver Medal";
             } else if (i == nums.length - 3) {
                 result[table.get(nums[i])] = "Bronze Medal";
