@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println(JudgeRouteCircle.judgeCircle("LL"));
+        System.out.println(SelfDividingNumbers.selfDividingNumbers(1, 22));
 
     }
 
